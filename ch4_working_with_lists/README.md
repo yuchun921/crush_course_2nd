@@ -1,0 +1,2 @@
+Learn how to loop through an entire list using just a few lines of code regardless of how long the list is.  
+Looping allows you to take the same action, or set of actions, with every item in a list.  
