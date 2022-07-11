@@ -16,7 +16,7 @@ while True:
     # store info to recode
     records[user] = location
     
-    # Asking someone need to responding?
+    # Asking someone need to respond?
     ask_again = input(continue_prompt)
     
     if ask_again.lower() == "no":
